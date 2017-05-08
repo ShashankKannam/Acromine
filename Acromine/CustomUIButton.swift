@@ -2,7 +2,7 @@
 //  CustomUIButton.swift
 //  Acromine
 //
-//  Created by Shashank Kumar on 4/24/17.
+//  Created by Shashank Kannam on 4/24/17.
 //  Copyright © 2017 Shashank. All rights reserved.
 //
 
